@@ -1,0 +1,32 @@
+body {
+   font-family: Arial, sans-serif;
+ }
+ 
+ .container {
+   margin-top: 20px;
+ }
+ 
+ button {
+   margin-left: 10px;
+ }
+ 
+ ul {
+   list-style-type: none;
+   padding: 0;
+ }
+ 
+ li {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   border: 1px solid #ddd;
+   padding: 10px;
+   margin-top: 5px;
+ }
+ 
+ li button {
+   background-color: #ff5858;
+   color: white;
+   border: none;
+   cursor: pointer;
+ }
